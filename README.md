@@ -15,8 +15,8 @@ This project simulates an end-to-end ETL pipeline for sales data generation acro
 
 ## 📦 Outputs
 
-- `unique_products_with_materials_masterlist.csv`
-- `vehicle_plate_masterlist.csv`
+- `product_design.csv`
+- `vehicle_master.csv`
 - `sales_batch.csv`
 
 ---
